@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reddit meme</string>
+    <string name="meme_app">MEME APP</string>
+    <string name="next">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="meme_image">MEME IMAGE</string>
+</resources>
